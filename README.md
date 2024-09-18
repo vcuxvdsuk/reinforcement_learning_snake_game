@@ -5,5 +5,7 @@ in order to run you need to:
 1. install pygame
 2. install torchvision
 3. install matplotlib ipython
+
 recommend to run in conda but not mandatory
+
 run with the comand "python agent.py"
